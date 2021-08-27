@@ -1,4 +1,5 @@
 name: steroids-or-not-voila
 dependencies:
-  - fastbook
-  - fastai
+  - pip:
+    - fastbook
+    - fastai

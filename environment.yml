@@ -1,0 +1,4 @@
+name: steroids-or-not-voila
+dependencies:
+  - fastbook
+  - fastai

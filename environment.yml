@@ -4,3 +4,4 @@ dependencies:
   - pip:
     - fastbook
     - fastai
+    - voila
